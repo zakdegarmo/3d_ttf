@@ -1,0 +1,6 @@
+{
+  "name": "3D Glyph Visualizer",
+  "description": "An interactive web application to visualize all glyphs from a .ttf font in 3D. Features a free-moving camera, adjustable spacing, and multiple geometric arrangements including an animated, interactive Torus Klein Knot with helical glyph motion.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
